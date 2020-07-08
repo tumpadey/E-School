@@ -1,0 +1,143 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color:#000000;
+}
+.section-padding{
+    padding: 63px 0;
+}
+a.navbar-brand {
+    max-width: 200px;
+}
+li.nav-item {
+    padding: 0px 10px;
+}
+.navbar {
+    padding: 1rem 1rem 3rem 1rem;
+}
+
+.banner-section{
+    background-color: #F0FFF0;
+}
+.banner-text-design{
+    color:#21B573;
+}
+.banner-content{
+    max-width: 403px;
+}
+.learn{
+    color: orange;
+}
+.online{
+    color:#413960;
+}
+.img-fluidd {
+    width: 50px;
+    height: 50px;
+}
+/*middel part*/
+
+.middel-section img.card-img-top {
+    max-width: 80px;
+    margin: 0 auto;
+    max-height: 122px;
+}
+.middel-section .card-body{
+    text-align: center;
+    padding: 30px;
+}
+.middel-section .card{
+    border: none;
+    transition: .2s ease;
+    background: #F8FFFB;
+}
+.middel-section .card:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.middel-section .card-img{
+    padding-top: 40px;
+}
+/*online section */
+.online-section .card-img{
+    padding: 20px;
+}
+.card-title{
+    margin-bottom: 0;
+    color: #413960;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+.online-section .card{
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    background: #FFFFFF;
+}
+.img-fluidd {
+    width: 20px;
+    height: 20px;
+}
+.card-icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+.icon-left .icon p {
+    margin: 0;
+}
+.icon-left p {
+    margin-bottom: 0;
+    padding-left: 10px;
+}
+.icon-left{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+/*testimonial */
+.testimonial-flex{
+    display:flex;
+    align-items: center;
+    width: 70%;
+    justify-content: space-between;
+}
+.testimonial-available .img-fluid{
+    max-width: 70%;
+    height: auto;
+}
+.t{
+    font-weight: bold;
+}
+
+/*footer */
+footer ul li{
+    list-style: none;
+    color: #ffff;
+    font-size: 16px;
+}
+.p{
+    color:#ffff;
+}
+.footer-padding{
+    background-color: #282531;
+    line-height: 30px;
+    padding: 0%;
+    font-style: normal;
+    
+}
+.b{
+    font-weight: bold;
+}
+
+
+
+/*button*/
+.btn-primary{
+    background: #21B573;
+    border: none;
+    padding: 12px 36px;
+    border-radius: 33px;
+}
